@@ -1,3 +1,4 @@
-FUNCTION main
-	OUTPUT "Hello World"
-END FUNCTION
+func main()
+    define year = 10
+    define name = "ubert"
+ostream("Hello World")
